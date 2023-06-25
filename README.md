@@ -1,7 +1,8 @@
 # This is the source code of my perfessional course ,i.e. AI experiment 3 at UESTC(2023 SUMMER). 
 You can git clone it into your local environment, execute it, and hopefully you may get some take home message. Enjoy yourself, and have fun！
 
-(by the way... don't forget to star this project if you find it useful, that do means a lot to me!! salute)
+# (by the way... don't forget to star this project if you find it useful, that do means a lot to me!! salute)
+# 如果你觉得写的不错或者对你有帮助的话，可以帮我点亮右上角的小星星吗？这真的会让我开心一整天哦！
 # One thing notable:
 You may need a GPU to run the code,casue it's a time-consuming work for CPU...
 # Some learning materials and resource are down below:
