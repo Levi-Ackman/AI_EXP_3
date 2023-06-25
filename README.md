@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ## 3)Run the code by a simple line : 
  Modify 'data_path' and 'json_path' in parser.add_argument('...') in run.py to the paths of your own TaxiData and json files. As follows:
  <p float="left">
-  <img src="图片一.jpg?raw=true" width="100%" />
+  <img src="图片一.png?raw=true" width="100%" />
   </p>
   
 ## 4)Run the code by a simple line : 
