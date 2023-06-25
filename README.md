@@ -34,6 +34,8 @@ python run.py
 ```
 ## 5) results and visulization
 a. After running, you can find the training results and indicators of the corresponding model in the test_dict folder.
+
 b. In the test_results folder, you can get the prediction curve of the corresponding model and the real value comparison chart.
+
 c. Under the checkpoint folder, you can get the training weight file of the corresponding model.
 
